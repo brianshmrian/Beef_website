@@ -61,7 +61,7 @@ if ((let name = GetName()) && (isEnabled))
 
 }
 
-/* This is ILLEGAN since "force" can cause the block to be entered even if the conditional variable declaration fails */
+/* This is ILLEGAL since "force" can cause the block to be entered even if the conditional variable declaration fails */
 if ((let name == GetName() || (force))
 {
 
