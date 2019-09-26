@@ -36,7 +36,7 @@ The `box` expression allocates an object which wraps a value type. (See [Memory 
 
 ### case
 
-`case` expressions can be used for pattern matching outside switches. (See [Pattern Matching]{{<ref "pattern.md" >}}))
+`case` expressions can be used for pattern matching outside switches. (See [Pattern Matching]({{<ref "pattern.md" >}}))
 
 ### Cast expression
 
